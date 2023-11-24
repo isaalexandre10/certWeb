@@ -1,0 +1,14 @@
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\bin\Debug\CertWeb.exe.config
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\bin\Debug\CertWeb.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\bin\Debug\CertWeb.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.csproj.AssemblyReference.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.Form1.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.Properties.Resources.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.csproj.GenerateResource.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.csproj.CoreCompileInputs.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.Links.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.Sobre.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.Painel.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao05\CertWeb\obj\Debug\CertWeb.Tarefas.resources
